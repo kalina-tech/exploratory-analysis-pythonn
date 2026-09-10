@@ -13,7 +13,7 @@ The project utilizes three primary datasets:
 
 ---
 
-## 📊 Key Steps & Analysis Workflow
+## Key Steps & Analysis Workflow
 
 1. **Environment Setup & Data Loading:**
    * Mounting Google Drive to load datasets directly within Google Colab.
@@ -38,7 +38,7 @@ The project utilizes three primary datasets:
 
 ---
 
-## 🛠 Technologies & Libraries
+## Technologies & Libraries
 
 * **Python**
 * **Google Colab / Jupyter Notebook**
@@ -48,7 +48,7 @@ The project utilizes three primary datasets:
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Open or download the Jupyter Notebook file `Exploratory_data_analysis_for_online_store.ipynb`.
 2. Upload `products.csv`, `events.csv`, and `countries.csv` to your Google Drive directory (by default, the notebook looks in `/content/drive/MyDrive/mate`).
@@ -56,5 +56,5 @@ The project utilizes three primary datasets:
 
 ---
 
-## 📌 Author
+##  Author
 * **kalina-tech** — [GitHub Profile](https://github.com/kalina-tech)
